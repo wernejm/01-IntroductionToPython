@@ -91,7 +91,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).
 #   Note that this file:
 #      m2_todo_and_commit_push.py
